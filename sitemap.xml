@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://weege.github.com/blog/2013/01/01/happy-new-year/</loc>
+        <lastmod>2013-03-16T07:35:38-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://weege.github.com/blog/2013/01/01/hello/</loc>
+        <lastmod>2013-03-16T07:35:38-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://weege.github.com/robots.txt</loc>
+        <lastmod>2013-03-16T07:32:16-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://weege.github.com/blog/archives/</loc>
+        <lastmod>2013-03-16T07:35:38-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://weege.github.com/</loc>
+        <lastmod>2013-03-16T07:35:38-07:00</lastmod>
+    </url>
+</urlset>

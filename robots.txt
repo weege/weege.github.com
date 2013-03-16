@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://weege.github.com/sitemap.xml 
